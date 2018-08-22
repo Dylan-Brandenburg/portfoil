@@ -1,0 +1,10 @@
+.Skills_container {
+  grid: auto-flow / repeat(auto-fill, minmax(120px, 1fr));
+}
+.Skills {
+  display: grid;
+  grid: auto-flow / repeat(auto-fill, minmax(120px, 1fr));
+}
+.Skill__img {
+  height: 120px;
+}
