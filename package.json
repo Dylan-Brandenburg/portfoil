@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "http://Dylan-Brandenburg.github.io/",
+  "homepage": "http://Dylan-Brandenburg.github.io/portfolio",
   "private": true,
   "dependencies": {
     "gh-pages": "^1.2.0",
