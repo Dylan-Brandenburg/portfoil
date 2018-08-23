@@ -177,9 +177,12 @@ export default class Portfolio extends Component {
               <div className="description-box">
                 <h4>Up-Ply</h4>
                 <p>
-                  Proin gravida nibh vel velit auctor aliquet. Aenean
-                  sollicitudin, lorem quis bibendum auctor, nisi elit consequat
-                  ipsum, nec sagittis sem nibh id elit.
+                  Technologies used included React.js, Redux, Express/Node.js,
+                  PostgresSQLl, Amazon Web Services and Sass. Up-Ply is a team
+                  based project management system that simplifies managing users
+                  and tasks. Uses PostgreSQL to create relations between teams,
+                  projects and users. Uses AWS S3 buckets to handle file upload
+                  and file storage.
                 </p>
                 <span className="categories">
                   <i className="fa fa-tag" />
@@ -201,9 +204,16 @@ export default class Portfolio extends Component {
               <div className="description-box">
                 <h4>Freelancer</h4>
                 <p>
-                  Proin gravida nibh vel velit auctor aliquet. Aenean
-                  sollicitudin, lorem quis bibendum auctor, nisi elit consequat
-                  ipsum, nec sagittis sem nibh id elit.
+                  Created using React.js, Redux, Express/Node.js, PostgresSql,
+                  Sass, Material-UI and AWS. A Group Full-Stack Web app project
+                  that adopts certain social media aspects to create a unique
+                  experience. Allows employers to create job listings allowing
+                  freelancers to see and apply to the job if they are a good
+                  fit. Employers are able to choose a freelancer based off their
+                  skill set and portfolio hosted on their profile. Uses
+                  Express/Node.Js to run the server which handles server
+                  sessions and authentication using Auth0. Uses Amazon web
+                  services/S3 to handle file storage.
                 </p>
                 <span className="categories">
                   <i className="fa fa-tag" />

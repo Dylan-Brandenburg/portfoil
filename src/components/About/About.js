@@ -15,7 +15,13 @@ export default class About extends Component {
             </div>
             <div className="nine columns main-col">
               <h2>About Me</h2>
-              <p>I am a Full-Stack Developer. About me.</p>
+              <p>
+                I am a Full-Stack Developer.Full-Stack Developer from Dallas,
+                Tx. I have a strong passion for creating beautiful full-stack
+                applications. I have strong knowledge in JavaScript, React.js,
+                Node.js and Express. I strive to continue learning and I love
+                picking up new technologies to see what I can build.
+              </p>
               <div className="row">
                 <div className="columns contact-details">
                   <h2>Contact Details</h2>
