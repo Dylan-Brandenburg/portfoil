@@ -35,6 +35,9 @@ export default class Portfolio extends Component {
                       </div>
                     </a>
                   </div>
+                  <p>
+                    <a href="http://www.up-ply.dylanbrandenburg.com">Up-Ply</a>
+                  </p>
                 </div>{" "}
                 {/* item end */}
                 <div
@@ -58,6 +61,11 @@ export default class Portfolio extends Component {
                       </div>
                     </a>
                   </div>
+                  <p>
+                    <a href="http://www.freelancer.dylanbrandenburg.com">
+                      Freelancer
+                    </a>
+                  </p>
                 </div>{" "}
                 {/* item end */}
                 {/* <div className="columns portfolio-item">

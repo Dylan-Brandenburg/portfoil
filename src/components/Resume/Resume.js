@@ -22,6 +22,7 @@ export default class Resume extends Component {
               </p>
               {/* <div className="bars"> */}
               <Skills />
+
               {/* <ul className="skills">
                   <li>
                     <span className="bar-expand photoshop" />
@@ -52,6 +53,9 @@ export default class Resume extends Component {
               {/* end skill-bars */}
             </div>{" "}
             {/* main-col end */}
+            <br />
+            <hr />
+            <br />
           </div>{" "}
           {/* End skills */}
           {/* Education
@@ -68,7 +72,7 @@ export default class Resume extends Component {
                   <h3>Freelancer- Group Project. Web Developer</h3>
                   <p className="info">
                     Full-Stack Developer <span>•</span>{" "}
-                    <em className="date">July 2018 - Augest 2018</em>
+                    <em className="date">July 2018 - August 2018</em>
                   </p>
                   <p>
                     Created using React.js, Redux, Express/Node.js, PostgresSql,

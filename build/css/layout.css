@@ -331,6 +331,7 @@ ul#nav li.current a {
   text-align: left;
 }
 .bars .skills {
+  border-bottom: 1px solid #e8e8e8;
   margin-top: 36px;
   list-style: none;
 }
